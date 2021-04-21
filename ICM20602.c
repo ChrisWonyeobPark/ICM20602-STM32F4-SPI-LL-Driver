@@ -14,6 +14,8 @@
  * Rev. 1.0
  *
  * https://github.com/ChrisWonyeobPark/
+ * https://www.udemy.com/course/stm32-drone-programming/
+ * https://www.inflearn.com/course/stm32cubelde-stm32f4%EB%93%9C%EB%A1%A0-%EA%B0%9C%EB%B0%9C
 */
 
 /**
